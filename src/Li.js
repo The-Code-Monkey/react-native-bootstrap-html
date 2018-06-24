@@ -14,7 +14,7 @@ const LiWrapper = styled.Text`
 
 const Li = props => (
   <LiWrapper {...this.props.style}>
-    {props.bullet} {props.children}
+    {props.children}
   </LiWrapper>
 )
 

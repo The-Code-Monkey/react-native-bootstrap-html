@@ -1,6 +1,6 @@
 ## react-native-html ![NPM version](https://img.shields.io/npm/v/react-native-bootstrap-html.svg?style=flat)
 
-
+Still In Early Development If You Would Like To Help Head On Over To The GitHub
 
 ### Installation
 ```bash
